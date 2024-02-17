@@ -6,7 +6,7 @@ It is a web app which is created to connect producers and artists.
 This is a react project created using vite and using tailwind css for css.
 Fork the repo and make a branch by your own name and then send a PR on develop branch.
 so 
-cd frontend 
+cd BeatMarket 
 npm i
 npm run dev
 
