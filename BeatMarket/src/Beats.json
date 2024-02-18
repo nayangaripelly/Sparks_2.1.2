@@ -1,0 +1,253 @@
+[
+    {
+      "img": "img.png",
+      "name": "Beat 1",
+      "creator": "Creator 1",
+      "price": 10,
+      "time": "3:45",
+      "releaseDate": "2022-01-15",
+      "promoted": 3,
+      "likes": 100
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 2",
+      "creator": "Creator 2",
+      "price": 15,
+      "time": "4:20",
+      "releaseDate": "2022-01-10",
+      "promoted": 1,
+      "likes": 10
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 3",
+      "creator": "Creator 3",
+      "price": 20,
+      "time": "5:10",
+      "releaseDate": "2022-03-05",
+      "promoted": 2,
+      "likes": 20
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 4",
+      "creator": "Creator 4",
+      "price": 12,
+      "time": "3:30",
+      "releaseDate": "2022-04-20",
+      "promoted": 4,
+      "likes": 1
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 5",
+      "creator": "Creator 5",
+      "price": 18,
+      "time": "4:55",
+      "releaseDate": "2022-05-12",
+      "promoted": 8,
+      "likes": 0
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 6",
+      "creator": "Creator 6",
+      "price": 25,
+      "time": "6:30",
+      "releaseDate": "2022-06-25",
+      "promoted": 0,
+      "likes": 23
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 7",
+      "creator": "Creator 7",
+      "price": 30,
+      "time": "7:20",
+      "releaseDate": "2022-07-08",
+      "promoted": 0,
+      "likes": 69
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 8",
+      "creator": "Creator 8",
+      "price": 22,
+      "time": "4:45",
+      "releaseDate": "2022-08-30",
+      "promoted": 5,
+      "likes": 55
+    },
+    {
+      "img": "img.png",
+      "name": "Beat 9",
+      "creator": "Creator 9",
+      "price": 0,
+      "time": "4:10",
+      "releaseDate": "2022-09-18",
+      "promoted": 17,
+      "likes": 17
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 10",
+      "creator": "Creator 10",
+      "price": 28,
+      "time": "6:05",
+      "releaseDate": "2022-10-05",
+      "promoted": 6,
+      "likes": 6
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 11",
+      "creator": "Creator 11",
+      "price": 14,
+      "time": "3:15",
+      "releaseDate": "2022-11-12",
+      "promoted": 7,
+      "likes": 58
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 12",
+      "creator": "Creator 12",
+      "price": 23,
+      "time": "5:20",
+      "releaseDate": "2022-12-25",
+      "promoted": 0,
+      "likes": 59
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 13",
+      "creator": "Creator 13",
+      "price": 16,
+      "time": "4:35",
+      "releaseDate": "2023-01-02",
+      "promoted": 0,
+      "likes": 108
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 14",
+      "creator": "Creator 14",
+      "price": 19,
+      "time": "5:45",
+      "releaseDate": "2023-02-14",
+      "promoted": 0,
+      "likes": 178
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 15",
+      "creator": "Creator 15",
+      "price": 21,
+      "time": "4:40",
+      "releaseDate": "2023-03-10",
+      "promoted": 0,
+      "likes": 120
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 16",
+      "creator": "Creator 16",
+      "price": 26,
+      "time": "6:15",
+      "releaseDate": "2023-04-20",
+      "promoted": 0,
+      "likes": 205
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 17",
+      "creator": "Creator 17",
+      "price": 11,
+      "time": "3:50",
+      "releaseDate": "2023-05-05",
+      "promoted": 0,
+      "likes": 221
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 18",
+      "creator": "Creator 18",
+      "price": 24,
+      "time": "5:25",
+      "releaseDate": "2023-06-18",
+      "promoted": 0,
+      "likes": 10
+    },
+    {
+      "img": "img1.png",
+      "name": "Beat 19",
+      "creator": "Creator 19",
+      "price": 13,
+      "time": "4:00",
+      "releaseDate": "2023-07-30",
+      "promoted": 0,
+      "likes": 89
+    },
+    {
+      "img": "img2.png",
+      "name": "Beat 20",
+      "creator": "Creator 20",
+      "price": 29,
+      "time": "6:50",
+      "releaseDate": "2023-08-15",
+      "promoted": 0,
+      "likes": 82
+    },
+    {
+      "img": "img2.png",
+      "name": "Beat 21",
+      "creator": "Creator 21",
+      "price": 0,
+      "time": "7:00",
+      "releaseDate": "2023-08-16",
+      "promoted": 0,
+      "likes": 83
+    },
+    {
+      "img": "img2.png",
+      "name": "Beat 22",
+      "creator": "Creator 22",
+      "price": 0,
+      "time": "7:00",
+      "releaseDate": "2023-08-16",
+      "promoted": 12,
+      "likes": 22
+    },
+    {
+      "img": "img2.png",
+      "name": "Beat 23",
+      "creator": "Creator 23",
+      "price": 0,
+      "time": "7:00",
+      "releaseDate": "2023-08-16",
+      "promoted": 0,
+      "likes": 62
+    },
+    {
+      "img": "img2.png",
+      "name": "Beat 24",
+      "creator": "Creator 24",
+      "price": 18,
+      "time": "7:00",
+      "releaseDate": "2023-08-16",
+      "promoted": 0,
+      "likes": 82
+    },
+    {
+      "img": "img2.png",
+      "name": "Beat 25",
+      "creator": "Creator 25",
+      "price": 0,
+      "time": "7:00",
+      "releaseDate": "2023-08-16",
+      "promoted": 0,
+      "likes": 38
+    }
+  ]
+  
